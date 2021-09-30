@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+.object{
+    background-color: white;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+h3{
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    font-size: 30px;
+}
+
+.back_btn{
+    background-color: black;
+    color: white;
+    float: right;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border: 1px solid black;
+}
+h4{
+    margin-left: 75px;
+    margin-top: 0;
+}
+h5{
+    margin-bottom: 30px;
+    margin-top: 0;
+}
